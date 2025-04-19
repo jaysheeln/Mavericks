@@ -1,0 +1,10 @@
+python-dotenv
+langchain-pinecone
+langchain-openai
+langchain-core
+langchain
+streamlit==1.44.1
+pandas
+pydub
+git+https://github.com/openai/whisper.git
+clip
